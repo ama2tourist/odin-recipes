@@ -2,6 +2,7 @@
     line-height: 1.5;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -51,4 +52,8 @@ ol li {
 
 #directions {
     margin-bottom: 5%;
+}
+
+.content {
+    text-align: center;
 }
